@@ -17,7 +17,7 @@ Make sure you have the following files in the same directory as the script:
 - `cidades.txt`
 - `estados.txt`
 
-###############################################################################
+
 EXAMPLE OF USE:
 
 Escolha uma ou mais opções abaixo a serem geradas aleatoriamente:
